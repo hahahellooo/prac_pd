@@ -6,8 +6,8 @@ https://pandas.pydata.org/pandas-docs/stable/user_guide/10min.html
 No module matplotlib, No module openpyxl
 
 ### solution
-```py
-pip install matplotlib
-pip install openpyxl
+```vim
+$ pip install matplotlib
+$ pip install openpyxl
 ```
 
